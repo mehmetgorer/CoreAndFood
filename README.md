@@ -34,4 +34,20 @@ Geliştirme ve Katkı
 Proje açık kaynak olup, geliştirmelere ve yeni özellikler eklenmesine açıktır. İstek göndererek (Pull Request) veya hata bildirerek katkıda bulunabilirsiniz.
 
 Bu taslak üzerinde istediğiniz değişiklikleri yapabilir veya eklemek istediğiniz başka bilgiler varsa paylaşabilirsiniz.
- 
+
+
+Ekran Görüntüleri
+
+https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_1.png
+
+https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_2.png
+
+https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_3.png
+
+https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_4.png
+
+https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_5.png
+
+https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_6.png
+
+https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_7.png
