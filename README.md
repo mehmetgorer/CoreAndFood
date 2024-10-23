@@ -15,7 +15,7 @@ Proje Deposu: Bu projeyi klonlayın veya zip dosyasını indirip açın.
 
 bash
 Kodu kopyala
-git clone https://github.com/kullanici-adi/proje-adi.git
+git clone https://github.com/mehmetgorer/CoreAndFood.git
 Bağımlılıkları Yükleyin: .NET Core SDK ve gerekli bağımlılıkları yüklediğinizden emin olun.
 
 Veritabanı Ayarları: Proje içinde bulunan appsettings.json dosyasındaki veritabanı bağlantı ayarlarını yapılandırın.
