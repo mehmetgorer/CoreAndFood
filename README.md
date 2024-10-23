@@ -37,24 +37,24 @@ Bu taslak üzerinde istediğiniz değişiklikleri yapabilir veya eklemek istedi�
 
 ## Ekran Görüntüleri
 
-### 1. Ana Sayfa
+### 1.
 ![Ana Sayfa](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_1.png)
 
-### 2. Ürün Listesi
+### 2. 
 ![Ürün Listesi](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_2.png)
 
-### 3. Ürün Ekleme Ekranı
+### 3. 
 ![Ürün Ekleme](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_3.png)
 
-### 4. Ürün Güncelleme Ekranı
+### 4. 
 ![Ürün Güncelleme](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_4.png)
 
-### 5. Ürün Kategorileri
+### 5. 
 ![Ürün Kategorileri](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_5.png)
 
-### 6. İstatistiksel Görüntüleme
+### 6. 
 ![İstatistiksel Görüntüleme](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_6.png)
 
-### 7. Kullanıcı Girişi
+### 7. 
 ![Kullanıcı Girişi](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_7.png)
 
