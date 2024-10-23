@@ -58,3 +58,38 @@ Bu taslak üzerinde istediğiniz değişiklikleri yapabilir veya eklemek istedi�
 ### 7. 
 ![Kullanıcı Girişi](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_7.png)
 
+.NET Core Product Management System
+This project is a product management system developed using .NET Core. Users can log in to add, update, delete, and categorize products. Additionally, product information can be viewed with statistical insights.
+
+This project was developed as part of a learning process and is open to further development by adding new features or improving existing functionalities.
+
+Features
+User Authentication: Users can log in to the system for authentication.
+Product Management: Allows adding, editing, and deleting products.
+Categorization: Products can be organized into different categories for easier management.
+Statistical View: Provides statistical insights related to the product information.
+Installation
+To run the project locally, follow these steps:
+
+Clone the Repository: Clone this project or download the zip file and extract it.
+
+bash
+Kodu kopyala
+git clone https://github.com/username/project-name.git
+Install Dependencies: Make sure you have .NET Core SDK and all necessary dependencies installed.
+
+Database Configuration: Configure the database connection in the appsettings.json file located within the project.
+
+Apply Database Migrations: Run the following commands to apply database migrations.
+
+bash
+Kodu kopyala
+dotnet ef database update
+Run the Project: Start the project using the command below.
+
+bash
+Kodu kopyala
+dotnet run
+Contribution
+The project is open-source and contributions are welcome. You can contribute by submitting a pull request or reporting an issue.
+
