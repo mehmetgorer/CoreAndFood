@@ -35,19 +35,26 @@ Proje açık kaynak olup, geliştirmelere ve yeni özellikler eklenmesine açık
 
 Bu taslak üzerinde istediğiniz değişiklikleri yapabilir veya eklemek istediğiniz başka bilgiler varsa paylaşabilirsiniz.
 
+## Ekran Görüntüleri
 
-Ekran Görüntüleri
+### 1. Ana Sayfa
+![Ana Sayfa](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_1.png)
 
-https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_1.png
+### 2. Ürün Listesi
+![Ürün Listesi](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_2.png)
 
-https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_2.png
+### 3. Ürün Ekleme Ekranı
+![Ürün Ekleme](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_3.png)
 
-https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_3.png
+### 4. Ürün Güncelleme Ekranı
+![Ürün Güncelleme](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_4.png)
 
-https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_4.png
+### 5. Ürün Kategorileri
+![Ürün Kategorileri](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_5.png)
 
-https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_5.png
+### 6. İstatistiksel Görüntüleme
+![İstatistiksel Görüntüleme](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_6.png)
 
-https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_6.png
+### 7. Kullanıcı Girişi
+![Kullanıcı Girişi](https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_7.png)
 
-https://github.com/mehmetgorer/CoreAndFood/blob/main/CoreAndFoodFix/ScreenShots/Screenshot_7.png
