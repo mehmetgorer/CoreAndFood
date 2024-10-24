@@ -14,7 +14,6 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 Proje Deposu: Bu projeyi klonlayın veya zip dosyasını indirip açın.
 
 bash
-Kodu kopyala
 git clone https://github.com/mehmetgorer/CoreAndFood.git
 Bağımlılıkları Yükleyin: .NET Core SDK ve gerekli bağımlılıkları yüklediğinizden emin olun.
 
@@ -23,12 +22,10 @@ Veritabanı Ayarları: Proje içinde bulunan appsettings.json dosyasındaki veri
 Veritabanı Migrasyonları: Aşağıdaki komutları kullanarak veritabanı migrasyonlarını uygulayın.
 
 bash
-Kodu kopyala
 dotnet ef database update
 Projeyi Çalıştırın: Projeyi başlatmak için aşağıdaki komutu kullanın.
 
 bash
-Kodu kopyala
 dotnet run
 Geliştirme ve Katkı
 Proje açık kaynak olup, geliştirmelere ve yeni özellikler eklenmesine açıktır. İstek göndererek (Pull Request) veya hata bildirerek katkıda bulunabilirsiniz.
@@ -74,7 +71,6 @@ To run the project locally, follow these steps:
 Clone the Repository: Clone this project or download the zip file and extract it.
 
 bash
-Kodu kopyala
 git clone https://github.com/username/project-name.git
 Install Dependencies: Make sure you have .NET Core SDK and all necessary dependencies installed.
 
@@ -83,12 +79,10 @@ Database Configuration: Configure the database connection in the appsettings.jso
 Apply Database Migrations: Run the following commands to apply database migrations.
 
 bash
-Kodu kopyala
 dotnet ef database update
 Run the Project: Start the project using the command below.
 
 bash
-Kodu kopyala
 dotnet run
 Contribution
 The project is open-source and contributions are welcome. You can contribute by submitting a pull request or reporting an issue.
