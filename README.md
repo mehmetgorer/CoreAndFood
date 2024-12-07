@@ -71,7 +71,7 @@ To run the project locally, follow these steps:
 Clone the Repository: Clone this project or download the zip file and extract it.
 
 bash
-git clone https://github.com/username/project-name.git
+git clone https://github.com/mehmetgorer/CoreAndFood.git
 Install Dependencies: Make sure you have .NET Core SDK and all necessary dependencies installed.
 
 Database Configuration: Configure the database connection in the appsettings.json file located within the project.
